@@ -1,0 +1,26 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "ClientesGRPC";
+
+service ClienteService {
+  rpc GetClientes(Empty) returns (ClienteList);
+
+    // Novo método para retornar um cliente específico por ID
+  rpc GetClienteById(ClienteIdRequest) returns (Cliente);
+}
+
+message Empty {}
+
+message Cliente {
+  int32 id = 1;
+  string nome = 2;
+}
+
+message ClienteList {
+  repeated Cliente clientes = 1;
+}
+
+// Mensagem para o ID de cliente
+message ClienteIdRequest {
+  int32 id = 1;
+}

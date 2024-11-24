@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|c:\\projeto pessoal\\apis\\grpc\\grpcsample\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|solutionrelative:clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|c:\\projeto pessoal\\apis\\grpc\\grpcsample\\protos\\clientes.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|solutionrelative:protos\\clientes.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|c:\\projeto pessoal\\apis\\grpc\\grpcsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|c:\\projeto pessoal\\apis\\grpc\\grpcsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|c:\\projeto pessoal\\apis\\grpc\\grpcsample\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|c:\\projeto pessoal\\apis\\grpc\\grpcsample\\grpcsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{801783A4-D4AB-423B-B913-86FC05371943}|GrpcSample.csproj|solutionrelative:grpcsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T00:41:35.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrpcSample",
+              "DocumentMoniker": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\GrpcSample.csproj",
+              "RelativeDocumentMoniker": "GrpcSample.csproj",
+              "ToolTip": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\GrpcSample.csproj",
+              "RelativeToolTip": "GrpcSample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T00:07:00.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.proto",
+              "DocumentMoniker": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\Protos\\Clientes.proto",
+              "RelativeDocumentMoniker": "Protos\\Clientes.proto",
+              "ToolTip": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\Protos\\Clientes.proto",
+              "RelativeToolTip": "Protos\\Clientes.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-11-11T00:04:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ClienteService.cs",
+              "ToolTip": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\ClienteService.cs",
+              "RelativeToolTip": "ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:01:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:53:52.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projeto pessoal\\Apis\\Grpc\\GrpcSample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:51:31.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
